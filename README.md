@@ -1,5 +1,5 @@
 ## Project Goal
-In this project, a multimedia center was developed on an MCB1700 Development Board featuring the LPC1768 microcontroller. The goal was to explore the capabilities of the ARM Cortex-M3 architecture in embedded systems applications. The MCB1700 board is equipped with several modules, including an LCD, joystick, potentiometer, and LEDs, which were utilized to create an interactive user interface and multimedia functionalities.
+In this project, a multimedia center was developed on an MCB1700 Development Board featuring the LPC1768 microcontroller. The goal was to explore the capabilities of the ARM Cortex-M3 architecture in embedded systems applications, as well as to be familar with the tools provided by the Keil µVision IDE. The MCB1700 board is equipped with several modules, including an LCD, joystick, potentiometer, and LEDs, which were utilized to create an interactive user interface and multimedia functionalities.
 
 <div style="text-align: center;">
     <img src = "README_images/board_init.png" alt="MCB1700 Devboard" width="300">
