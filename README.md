@@ -30,12 +30,18 @@ The main menu serves as the entry point of the multimedia center, providing navi
 
 ### System Design
 #### Abstractions
-Custom helper files (e.g., GLCD.h, KBD.h, LED.h, etc.) provided abstraction layers for hardware interaction, simplifying the main application code and allowing for easier hardware management.
+Custom helper files (e.g., GLCD.h, KBD.h, LED.h, etc.) provided abstraction layers for hardware interaction (including my own-written display.h header file to simplify GLCD function calls), simplifying the main application code and allowing for easier hardware management.
 #### State Diagrams
+The overall program (main menu) state diagram is shown below:
+<div style="text-align: center;">
+    <img src = "README_images/coe718_project_program_state_machine.drawio.png" alt="Maze Game State Diagram" width="500">
+</div>
+
 The maze game state diagram is shown below:
 <div style="text-align: center;">
     <img src = "README_images/coe718_maze_state_machine.drawio.png" alt="Maze Game State Diagram" width="500">
 </div>
+
 The tic-tac-toe game state diagram is shown below:
 <div style="text-align: center;">
     <img src = "README_images/coe718_project_tictactoe_state_machine.drawio.png" alt="Maze Game State Diagram" width="500">
