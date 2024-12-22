@@ -1,0 +1,15 @@
+.\objects\showphotos.o: showPhotos.c
+.\objects\showphotos.o: display.h
+.\objects\showphotos.o: GLCD.h
+.\objects\showphotos.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.H
+.\objects\showphotos.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\showphotos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\showphotos.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\showphotos.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\showphotos.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h
+.\objects\showphotos.o: KBD.h
+.\objects\showphotos.o: lfc.c
+.\objects\showphotos.o: onepiece.c
+.\objects\showphotos.o: stardew.c
+.\objects\showphotos.o: tmu.c
+.\objects\showphotos.o: tmuNot.c
